@@ -10,7 +10,7 @@ h1 {
   font-size: 54px;
   font-weight: 400;
   padding-top: 80px;
-  padding-left: 40px; 
+  padding-left: 70px; 
   text-align: left;
   width: 55%;
 }
@@ -20,7 +20,7 @@ h2 {
   font-family: "omnes-pro", sans-serif;
   font-size: 28px;  
   font-weight: 300;
-  padding-left: 10px;
+  padding-left: 20px;
   text-align: left;
   width: 60%;
 }
@@ -30,7 +30,7 @@ p {
   font-family: "omnes-pro", sans-serif;
   font-size: 28px;
   line-height: 1.48em;
-  margin-left: 40px;
+  margin-left: 70px;
   text-align: left;
   width: 50%;
 }
@@ -72,7 +72,7 @@ img {
 #social-list 
     ul {
         float: left;
-    padding-left: 42px
+    padding-left: 72px
 }
 
 ul li {
